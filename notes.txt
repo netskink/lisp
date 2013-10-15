@@ -1,0 +1,12 @@
+This is a good online book on lisp
+http://www.gigamonkeys.com/book/                                                  
+Some motivation on lisp.
+ESR said every hacker should know lisp.
+Lisp is the second oldest programming language behind fortran.
+Scheme is a simplified lisp and jobs exist in scheme.
+Its polish prefix notation. I was a fan of rpn and its just the reverse. ie. operator and then two operands instead of two operands and then operator.
+                             
+This page shows how easy it is to parse with a stack
+http://en.wikipedia.org/wiki/Polish_notation
+
+
