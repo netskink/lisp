@@ -9,4 +9,4 @@ Its polish prefix notation. I was a fan of rpn and its just the reverse. ie. ope
 This page shows how easy it is to parse with a stack
 http://en.wikipedia.org/wiki/Polish_notation
 
-
+if when using git over proxy simply set your HTTP_PROXY environment variable.
