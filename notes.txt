@@ -10,3 +10,7 @@ This page shows how easy it is to parse with a stack
 http://en.wikipedia.org/wiki/Polish_notation
 
 if when using git over proxy simply set your HTTP_PROXY environment variable.
+
+Do this so it will not prompt your password everytime. It will cache it 
+for 15 minutes.
+
